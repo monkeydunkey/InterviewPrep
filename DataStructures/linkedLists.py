@@ -31,7 +31,10 @@ class linkedList(object):
                     runnerHead = runnerHead.nextNode
                 retVal = runnerHead.val
                 prevRunner.nextNode = None
+                if runnerHead == self.head:
+                    self.head = None
                 del runnerHead
+                
             else:
                 tempNode = self.head
                 self.head = self.head.nextNode
