@@ -1,2 +1,14 @@
 # InterviewPrep
-A repo for practicing data structures and algorithms
+Machine Learning Engineer (MLE) Interview Prep Guide.
+
+Note: This is a WIP repo
+
+# Study Plan
+
+## Data Structures And Algorithms
+### Algorithms
+- Binary Search
+
+## ML Basics
+TODO
+
